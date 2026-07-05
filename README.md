@@ -54,5 +54,15 @@ npm run dev
 ```
 *Frontend varsayılan olarak `http://localhost:5173` portunda çalışacaktır. Ekranda beliren linke tıklayarak uygulamaya erişebilirsiniz.*
 
+## 📸 Ekran Görüntüleri
+
+| Vatandaş Şikayet Ekranı | Admin Paneli (Bekleyenler) |
+|:---:|:---:|
+| ![Vatandaş Şikayet](rapor/ekran-goruntuleri/03-vatandas-sikayet-ekrani.png) | ![Admin Panel](rapor/ekran-goruntuleri/07-admin-atanmamis-bekleyen.png) |
+
+| Uzman Paneli | Şikayet Çözüldü |
+|:---:|:---:|
+| ![Uzman Panel](rapor/ekran-goruntuleri/12-uzman-panel-yeni-sikayetler.png) | ![Çözüldü](rapor/ekran-goruntuleri/10-admin-cozuldu.png) |
+
 ---
 *Geliştirici: Sena Özkan*
