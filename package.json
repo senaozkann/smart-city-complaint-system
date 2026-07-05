@@ -1,0 +1,14 @@
+{
+  "name": "smart-city-complaint-system",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "server": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "multer": "^1.4.5-lts.2",
+    "natural": "^6.2.0"
+  }
+}
